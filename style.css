@@ -349,6 +349,10 @@ nav ul li a:hover::after{
     
 }
 
+.volunteer{
+    margin-bottom: 70px;
+}
+
 .btn{
     display: block;
     margin: 50px auto;
